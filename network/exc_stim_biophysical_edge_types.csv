@@ -1,0 +1,2 @@
+edge_type_id target_query source_query distance_range syn_weight dynamics_params delay model_template target_sections
+100 * * "[149.0, 151.0]" 1 PN2PN.json 2.0 pyr2pyr ['dend']

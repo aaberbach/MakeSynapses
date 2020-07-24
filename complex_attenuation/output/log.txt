@@ -1,0 +1,10 @@
+2020-07-23 20:26:34,419 [INFO] Created log file
+2020-07-23 20:26:34,681 [INFO] Building cells.
+2020-07-23 20:26:35,260 [INFO] Building recurrent connections
+2020-07-23 20:26:35,261 [INFO] Building virtual cell stimulations for exc_stim_spikes
+2020-07-23 20:26:35,285 [INFO] Running simulation for 700.000 ms with the time step 0.100 ms
+2020-07-23 20:26:35,285 [INFO] Starting timestep: 0 at t_sim: 0.000 ms
+2020-07-23 20:26:35,285 [INFO] Block save every 5000 steps
+2020-07-23 20:26:44,864 [INFO]     step:5000 t_sim:500.00 ms
+2020-07-23 20:26:48,433 [INFO]     step:7000 t_sim:700.00 ms
+2020-07-23 20:26:48,437 [INFO] Simulation completed in 13.15 seconds 
